@@ -1,4 +1,5 @@
 {
+  "welcomeFile": "/comtrialcapuiDummy/index.html",
   "authenticationMethod": "none",
   "routes": []
 }
