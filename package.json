@@ -1,5 +1,6 @@
 {
   "name": "dummymta",
+  "description": "added a new description",
   "version": "0.0.1",
   "devDependencies": {
     "@sap/ui5-builder-webide-extension": "1.0.x",
